@@ -4,9 +4,9 @@
 
 #ifndef MAP_H
 #define MAP_H
-#define ZONE1 1
-#define ZONE2 2
-#define ZONE3 3
+#define ZONE 1
+#define ZONE 2
+#define ZONE 3
 
 // Définition des cases
 enum TileType {
